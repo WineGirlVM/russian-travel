@@ -1,10 +1,17 @@
 .footer__copyright {
+    display: flex;
     margin: 0;
     padding: 0;
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 16px;  
+}
+
+@media screen and (max-width: 678px) {
+    .footer__copyright {
+        align-items: flex-end;
+    }
 }
 
 @media screen and (max-width: 425px) {

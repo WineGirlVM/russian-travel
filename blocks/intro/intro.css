@@ -10,9 +10,27 @@
     }
 }
 
+@media screen and (max-width: 928px) {
+    .intro {
+        max-width: 760px;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .intro {
         max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .intro {
+        max-width: 570px;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .intro {
+        max-width: 420px;
     }
 }
 

@@ -29,7 +29,7 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 610px) {
     .place {
         grid-template-columns: minmax(min-content, max-content);
         row-gap: 32px;
