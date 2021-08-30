@@ -8,7 +8,7 @@
 
 @media screen and (max-width: 1190px) {
     .footer {
-        max-width: 1020px;
+        max-width: 1010px;
     }
 }
 
@@ -18,9 +18,9 @@
     }
 }
 
-@media screen and (max-width: 928px) {
+@media screen and (max-width: 950px) {
     .footer {
-        max-width: 760px;
+        max-width: 750px;
     }
 }
 
@@ -31,15 +31,15 @@
     }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 730px) {
     .footer {
-        max-width: 678px;
+        max-width: 665px;
     }
 }
 
 @media screen and (max-width: 678px) {
     .footer {
-        max-width: 420px;
+        max-width: 415px;
     }
 }
 

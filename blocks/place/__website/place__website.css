@@ -5,15 +5,13 @@
 @media screen and (max-width: 610px) {
     .place__website {
         margin: 0 auto;
-        max-width: 420px;
+        max-width: 415px;
         width: 100%;
     }
 }
 
 @media screen and (max-width: 425px) {
     .place__website {
-        margin: 0 auto;
         max-width: 288px;
-        width: 100%;
     }
 }
