@@ -18,7 +18,6 @@
     .photo-grid {
         grid-template-columns: repeat(auto-fit, 300px);
         gap: 14px;
-        margin-top: 88px;
         max-width: 928px;
     }
 }
@@ -34,7 +33,7 @@
     .photo-grid {
         grid-template-columns: repeat(auto-fit, 352px);
         gap: 16px;
-        margin-top: 72px;
+        margin-top: 88px;
         max-width: 720px;
     }
 }
